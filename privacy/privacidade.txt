@@ -1,26 +1,21 @@
 Política de Privacidade
 
-GAME MONITORING TOOL - GMT
+GAMER TOOL - GT
 
-ÚLTIMA REVISÃO: 12 DE OUTUBRO DE 2023
+ÚLTIMA REVISÃO: 1 DE Novembro DE 2024*\n\nAo acessar este sistema, você concorda e se compromete com o seguinte:
 
-Ao acessar este sistema, você concorda e se compromete com o seguinte:
+**Termo de Uso:**
 
-Termo de Uso:
+1. Reconhecimento das Dinâmicas da Internet: Você compreende e concorda que a Internet é dinâmica, apresentando alto grau de mutabilidade em suas relações, com peculiaridades relacionadas à segurança e privacidade. Assim, aceita que este Termo de Uso pode ser modificado pelo GT (marcas e domínios pertencentes ao DevMarques) a qualquer momento, sem aviso prévio, sendo tais modificações válidas a partir da data de sua veiculação neste aplicativo.
 
-1 - Reconhecimento das Dinâmicas da Internet: Você compreende e concorda que a Internet é dinâmica, apresentando alto grau de mutabilidade em suas relações, com peculiaridades relacionadas à segurança e privacidade. Assim, aceita que este Termo de Uso pode ser modificado pelo GMT (marcas e domínios pertencentes ao DevMarques) a qualquer momento, sem aviso prévio, sendo tais modificações válidas a partir da data de sua veiculação neste aplicativo.
+2. Proteção de Dados: Todos os seus dados, incluindo informações de login do Google, são protegidos. Nenhuma informação, como e-mail, nome, ou qualquer outro dado, é repassada a terceiros.
 
-2 - Proteção de Dados: Todos os seus dados, incluindo informações de login do Google, são protegidos. Nenhuma informação, como e-mail, nome, ou qualquer outro dado, é repassada a terceiros.
+3. Acesso Root: O acesso ao root é necessário para alguns recursos mais avançados como leitura de clock da gpu, vram, uso da cpu.
 
-3 - Acesso Root: Para o correto funcionamento da aplicação GMT, é solicitado o acesso root. No entanto, o acesso é básico, limitando-se a leituras de processamento, algumas alterações para o clock de CPU, GPU, e mudanças de cores na superfície para o DCI P3.
+4. Links para Outros Sites: O DevMarques poderá, eventualmente, disponibilizar links de acesso para outros sites. Nesse caso, a responsabilidade pelos serviços ou funcionalidades desses sites é exclusivamente sua. O GT não tem a obrigação de fiscalizar o conteúdo desses outros sites.
 
-4 - Links para Outros Sites: O DevMarques poderá, eventualmente, disponibilizar links de acesso para outros sites. Nesse caso, a responsabilidade pelos serviços ou funcionalidades desses sites é exclusivamente sua. O GMT não tem a obrigação de fiscalizar o conteúdo desses outros sites.
+5. Restrições de Uso: Você não deve reproduzir, modificar, realizar engenharia reversa, compilar, descompilar, transmitir, publicar, sublicenciar, permitir, autorizar, alugar, vender, e/ou distribuir, ou, de qualquer outra forma não permitida neste Termo de Uso, utilizar ou transferir, no todo ou em parte, qualquer CONTEÚDO direta ou indiretamente relacionado a este Termo de Uso, sem prévia e expressa autorização, por escrito, da DevMarques ou dos terceiros proprietários, quando for o caso. O não cumprimento é caracterizado como crime, aplicando-se a Lei 9.609/98.\n\n6. Uso de Lucky Patcher: Usuários que utilizam o Lucky Patcher como serviço de crackeamento de apps serão banidos instantaneamente, sem direito a reembolso, apenas com a finalização da assinatura pelo Google Play > Minhas Assinaturas.
 
-5 - Restrições de Uso: Você não deve reproduzir, modificar, realizar engenharia reversa, compilar, descompilar, transmitir, publicar, sublicenciar, permitir, autorizar, alugar, vender, e/ou distribuir, ou, de qualquer outra forma não permitida neste Termo de Uso, utilizar ou transferir, no todo ou em parte, qualquer CONTEÚDO direta ou indiretamente relacionado a este Termo de Uso, sem prévia e expressa autorização, por escrito, da DevMarques ou dos terceiros proprietários, quando for o caso. O não cumprimento é caracterizado como crime, aplicando-se a Lei 9.609/98.
+**Informações Gerais:**
+Contato: dev.marquess@gmail.com",
 
-6 - Uso de Lucky Patcher: Usuários que utilizam o Lucky Patcher como serviço de crackeamento de apps serão banidos instantaneamente, sem direito a reembolso, apenas com a finalização da assinatura pelo Google Play > Minhas Assinaturas.
-
-Informações Gerais:
-
-Contato: dev.marquess@gmail.com
-Última Revisão: 12-10-2023.
